@@ -119,5 +119,119 @@
  "cards": {
   "dark": "cards/2026-10-15-dark.png",
   "green": "cards/2026-10-15-green.png"
- }
+ },
+ "clips": [
+  {
+   "title": "美債殖利率5.25%很高？BNY執行長：歷史上不罕見 正在回歸正常",
+   "url": "https://news.cnyes.com/news/id/6631490",
+   "source": "鉅亨網",
+   "time": "2026/10/15 23:30",
+   "cat": "財經",
+   "png": "clips/2026-10-15/01.png"
+  },
+  {
+   "title": "台股跌1655點外資賣超創新高 融資減51.41億",
+   "url": "https://www.cna.com.tw/news/afe/202610150359.aspx",
+   "source": "中央社",
+   "time": "2026/10/15 22:20",
+   "cat": "財經",
+   "png": "clips/2026-10-15/02.png"
+  },
+  {
+   "title": "CoreWeave喊「借錢無上限」嚇壞市場 信用風險飆新高、五年違約機率逾60%",
+   "url": "https://news.cnyes.com/news/id/6631545",
+   "source": "鉅亨網",
+   "time": "2026/10/15 23:10",
+   "cat": "財經",
+   "png": "clips/2026-10-15/03.png"
+  },
+  {
+   "title": "美國通膨壓力未減 華爾街股市開盤多下跌",
+   "url": "https://www.cna.com.tw/news/afe/202610150351.aspx",
+   "source": "中央社",
+   "time": "2026/10/15 21:56",
+   "cat": "財經",
+   "png": "clips/2026-10-15/04.png"
+  },
+  {
+   "title": "美國催設廠 路透：SK海力士開出涉中國條件",
+   "url": "https://news.cnyes.com/news/id/6631561",
+   "source": "鉅亨網",
+   "time": "2026/10/15 23:01",
+   "cat": "財經",
+   "png": "clips/2026-10-15/05.png"
+  },
+  {
+   "title": "美國9月PPI年增6.3% 創2022年底以來最大增幅",
+   "url": "https://www.cna.com.tw/news/aopl/202610150346.aspx",
+   "source": "中央社",
+   "time": "2026/10/15 21:32",
+   "cat": "財經",
+   "png": "clips/2026-10-15/06.png"
+  },
+  {
+   "title": "出國賞楓保障「升級」！安達產險急難救助最高12萬美元 美加保障升至3倍",
+   "url": "https://news.cnyes.com/news/id/6622905",
+   "source": "鉅亨網",
+   "time": "2026/10/06 19:51",
+   "cat": "保險理財",
+   "png": "clips/2026-10-15/07.png"
+  },
+  {
+   "title": "債券殖利率彈升 6大壽險9月獲利縮至90億元",
+   "url": "https://www.cna.com.tw/news/afe/202610150341.aspx",
+   "source": "中央社",
+   "time": "2026/10/15 21:00",
+   "cat": "保險理財",
+   "png": "clips/2026-10-15/08.png"
+  },
+  {
+   "title": "台灣人均退休缺口4400萬！富達調查：6成盼月花5萬 卻卡關「3大困境」",
+   "url": "https://news.cnyes.com/news/id/6629638",
+   "source": "鉅亨網",
+   "time": "2026/10/14 09:41",
+   "cat": "保險理財",
+   "png": "clips/2026-10-15/09.png"
+  },
+  {
+   "title": "搶攻親子理財市場！彰銀推未成年信託優惠 開戶送點數與基金手續費1折",
+   "url": "https://news.cnyes.com/news/id/6628717",
+   "source": "鉅亨網",
+   "time": "2026/10/12 20:43",
+   "cat": "保險理財",
+   "png": "clips/2026-10-15/10.png"
+  },
+  {
+   "title": "換季就生病？中醫推薦日常 2 料理，把免疫力補起來",
+   "url": "https://heho.com.tw/archives/388180",
+   "source": "Heho健康",
+   "time": "2026/10/15 11:36",
+   "cat": "健康醫療",
+   "png": "clips/2026-10-15/11.png"
+  },
+  {
+   "title": "莫名煩躁、心慌慌？中醫教用 4 招撥開「焦慮」迷霧，找回平靜",
+   "url": "https://heho.com.tw/archives/388171",
+   "source": "Heho健康",
+   "time": "2026/10/15 10:47",
+   "cat": "健康醫療",
+   "png": "clips/2026-10-15/12.png"
+  },
+  {
+   "title": "《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」",
+   "url": "https://heho.com.tw/archives/388166",
+   "source": "Heho健康",
+   "time": "2026/10/15 10:40",
+   "cat": "健康醫療",
+   "png": "clips/2026-10-15/13.png"
+  },
+  {
+   "title": "總是覺得累是癌症前兆嗎？4 個我們該懂的精準健康與防癌觀念",
+   "url": "https://heho.com.tw/archives/388162",
+   "source": "Heho健康",
+   "time": "2026/10/15 09:33",
+   "cat": "健康醫療",
+   "png": "clips/2026-10-15/14.png"
+  }
+ ]
 }
