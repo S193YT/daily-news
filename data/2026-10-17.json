@@ -1,0 +1,205 @@
+{
+ "date": "2026-10-17",
+ "generated": "2026/10/17 08:03",
+ "fx": [
+  {
+   "code": "USD",
+   "name": "美元",
+   "rate": 32.395,
+   "prev": 32.39
+  },
+  {
+   "code": "EUR",
+   "name": "歐元",
+   "rate": 36.635,
+   "prev": 36.55
+  },
+  {
+   "code": "AUD",
+   "name": "澳幣",
+   "rate": 22.63,
+   "prev": 22.61
+  },
+  {
+   "code": "JPY",
+   "name": "日圓",
+   "rate": 0.2072,
+   "prev": 0.2067
+  },
+  {
+   "code": "CNY",
+   "name": "人民幣",
+   "rate": 4.865,
+   "prev": 4.861
+  }
+ ],
+ "fx_time": "2026/10/17 05:31",
+ "fx_prev_time": "10/16 16:01",
+ "indices": [
+  {
+   "symbol": "^DJI",
+   "name": "道瓊",
+   "close": 52002.41015625,
+   "change": -175.28125,
+   "pct": -0.3359314014782269,
+   "date": "2026-10-16"
+  },
+  {
+   "symbol": "^GSPC",
+   "name": "標普500",
+   "close": 7659.43994140625,
+   "change": -84.6201171875,
+   "pct": -1.0927099809045933,
+   "date": "2026-10-16"
+  },
+  {
+   "symbol": "^IXIC",
+   "name": "那斯達克",
+   "close": 26140.033203125,
+   "change": -572.99609375,
+   "pct": -2.145006046981843,
+   "date": "2026-10-16"
+  },
+  {
+   "symbol": "^TWII",
+   "name": "台股加權",
+   "close": 46969.87109375,
+   "change": -1655.95703125,
+   "pct": -3.4055091606730348,
+   "date": "2026-10-15"
+  }
+ ],
+ "news": [
+  {
+   "title": "外資連8日賣超台股　今調節台積電2.2萬張",
+   "url": "https://www.cna.com.tw/news/afe/202610160291.aspx",
+   "source": "中央社",
+   "date": "2026/10/16",
+   "score": 9.66,
+   "short": "外資連8日賣超台股　今調節台積電2.2萬張"
+  },
+  {
+   "title": "〈紐約匯市〉美元逾1個月來首見單週跌幅 升息預期降溫、AI疑慮持續",
+   "url": "https://news.cnyes.com/news/id/6631986",
+   "source": "鉅亨網",
+   "date": "2026/10/17",
+   "score": 8.77,
+   "short": "〈紐約匯市〉美元逾1個月來首見單週跌幅"
+  },
+  {
+   "title": "AI漲勢動搖！美股下周聚焦財報季、Meta領軍檢驗科技巨頭獲利",
+   "url": "https://news.cnyes.com/news/id/6632414",
+   "source": "鉅亨網",
+   "date": "2026/10/17",
+   "score": 8.75,
+   "short": "AI漲勢動搖！美股下周聚焦財報季"
+  },
+  {
+   "title": "輝達、聯準會安撫投資者　歐股收紅",
+   "url": "https://www.cna.com.tw/news/afe/202610170002.aspx",
+   "source": "中央社",
+   "date": "2026/10/17",
+   "score": 7.98,
+   "short": "輝達、聯準會安撫投資者　歐股收紅"
+  },
+  {
+   "title": "Citadel看好第四季美股！但示警美股財報季迎高標考驗、標普500獲利估年增27%",
+   "url": "https://news.cnyes.com/news/id/6632011",
+   "source": "鉅亨網",
+   "date": "2026/10/17",
+   "score": 7.57,
+   "short": "Citadel看好第四季美股！"
+  }
+ ],
+ "news_sources": [
+  "中央社",
+  "鉅亨網"
+ ],
+ "missing": [],
+ "cards": {
+  "dark": "cards/2026-10-17-dark.png",
+  "green": "cards/2026-10-17-green.png"
+ },
+ "clips": [
+  {
+   "title": "輝達、聯準會安撫投資者 歐股收紅",
+   "url": "https://www.cna.com.tw/news/afe/202610170002.aspx",
+   "source": "中央社",
+   "time": "2026/10/17 01:20",
+   "cat": "財經",
+   "png": "clips/2026-10-17/01.png"
+  },
+  {
+   "title": "欣欣水泥明年擬減產近4成 中鋼：供料未受影響",
+   "url": "https://www.cna.com.tw/news/afe/202610160340.aspx",
+   "source": "中央社",
+   "time": "2026/10/16 21:11",
+   "cat": "財經",
+   "png": "clips/2026-10-17/02.png"
+  },
+  {
+   "title": "台銀無人機案訓練品項決標 詠昇取得供應契約",
+   "url": "https://www.cna.com.tw/news/afe/202610160322.aspx",
+   "source": "中央社",
+   "time": "2026/10/16 20:07",
+   "cat": "財經",
+   "png": "clips/2026-10-17/03.png"
+  },
+  {
+   "title": "鴻海砸233億元 取得三菱電機移動5成股權",
+   "url": "https://www.cna.com.tw/news/afe/202610160320.aspx",
+   "source": "中央社",
+   "time": "2026/10/16 19:59",
+   "cat": "財經",
+   "png": "clips/2026-10-17/04.png"
+  },
+  {
+   "title": "台灣人均退休缺口4400萬！富達調查：6成盼月花5萬 卻卡關「3大困境」",
+   "url": "https://news.cnyes.com/news/id/6629638",
+   "source": "鉅亨網",
+   "time": "2026/10/14 09:41",
+   "cat": "保險理財",
+   "png": "clips/2026-10-17/05.png"
+  },
+  {
+   "title": "搶攻親子理財市場！彰銀推未成年信託優惠 開戶送點數與基金手續費1折",
+   "url": "https://news.cnyes.com/news/id/6628717",
+   "source": "鉅亨網",
+   "time": "2026/10/12 20:43",
+   "cat": "保險理財",
+   "png": "clips/2026-10-17/06.png"
+  },
+  {
+   "title": "健康日曆｜活在當下，什麼都值得去探索",
+   "url": "https://heho.com.tw/archives/388068",
+   "source": "Heho健康",
+   "time": "2026/10/17 00:17",
+   "cat": "健康醫療",
+   "png": "clips/2026-10-17/07.png"
+  },
+  {
+   "title": "情緒與癌有關！愛生氣、壓力大真的會致癌？中西醫解析 8 種情緒對應器官",
+   "url": "https://heho.com.tw/archives/47430",
+   "source": "Heho健康",
+   "time": "2026/10/16 16:16",
+   "cat": "健康醫療",
+   "png": "clips/2026-10-17/08.png"
+  },
+  {
+   "title": "舌頭突歪一邊要小心，恐是腦中風！中醫解析從舌象、舌質與紋路看變化",
+   "url": "https://heho.com.tw/archives/388224",
+   "source": "Heho健康",
+   "time": "2026/10/16 14:55",
+   "cat": "健康醫療",
+   "png": "clips/2026-10-17/09.png"
+  },
+  {
+   "title": "喝高蛋白拿鐵能預防肌少症？營養師揭挑蛋白飲原則，做對 1 件事更關鍵",
+   "url": "https://heho.com.tw/archives/388215",
+   "source": "Heho健康",
+   "time": "2026/10/16 10:49",
+   "cat": "健康醫療",
+   "png": "clips/2026-10-17/10.png"
+  }
+ ]
+}
