@@ -41,3 +41,5 @@ h2 small{font-size:12px;font-weight:400;color:#889;margin-left:6px}
 .clist li.on{background:#fff7d6}
 .ctag{flex:none;font-size:11.5px;font-weight:700;padding:2px 7px;border-radius:10px;color:#fff;margin-top:2px}
 .t0{background:#1a4fa0}.t1{background:#c8961c}.t2{background:#1f9e8a}
+.board .row{grid-template-columns:1fr auto auto;grid-template-areas:"nm val sp" "nm chg sp";column-gap:10px}
+.nm{white-space:nowrap}.sp{grid-area:sp;align-self:center;width:96px}.sp .spark{display:block;width:96px;height:36px}
