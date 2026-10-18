@@ -1,0 +1,245 @@
+{
+ "date": "2026-10-18",
+ "generated": "2026/10/18 08:00",
+ "fx": [
+  {
+   "code": "USD",
+   "name": "美元",
+   "rate": 32.395,
+   "prev": 32.39
+  },
+  {
+   "code": "EUR",
+   "name": "歐元",
+   "rate": 36.635,
+   "prev": 36.55
+  },
+  {
+   "code": "AUD",
+   "name": "澳幣",
+   "rate": 22.63,
+   "prev": 22.61
+  },
+  {
+   "code": "JPY",
+   "name": "日圓",
+   "rate": 0.2072,
+   "prev": 0.2067
+  },
+  {
+   "code": "CNY",
+   "name": "人民幣",
+   "rate": 4.865,
+   "prev": 4.861
+  }
+ ],
+ "fx_time": "2026/10/18 05:31",
+ "fx_prev_time": "10/16 16:01",
+ "indices": [
+  {
+   "symbol": "^DJI",
+   "name": "道瓊",
+   "close": 52002.41015625,
+   "change": -175.28125,
+   "pct": -0.3359314014782269,
+   "date": "2026-10-16"
+  },
+  {
+   "symbol": "^GSPC",
+   "name": "標普500",
+   "close": 7659.43994140625,
+   "change": -84.6201171875,
+   "pct": -1.0927099809045933,
+   "date": "2026-10-16"
+  },
+  {
+   "symbol": "^IXIC",
+   "name": "那斯達克",
+   "close": 26140.029296875,
+   "change": -573.0,
+   "pct": -2.1450206699957906,
+   "date": "2026-10-16"
+  },
+  {
+   "symbol": "^TWII",
+   "name": "台股加權",
+   "close": 47111.26171875,
+   "change": 141.390625,
+   "pct": 0.3010240856692792,
+   "date": "2026-10-16"
+  }
+ ],
+ "news": [
+  {
+   "title": "〈友達運動會〉彭双浪：AI成長率趨緩不代表泡沫 明年景氣不會差、台股5萬點以上可期",
+   "url": "https://news.cnyes.com/news/id/6632662",
+   "source": "鉅亨網",
+   "date": "2026/10/17",
+   "score": 9.79,
+   "short": "〈友達運動會〉彭双浪"
+  },
+  {
+   "title": "AI賣壓燒向債市！美債殖利率急跌 華爾街緊盯科技巨頭財報",
+   "url": "https://news.cnyes.com/news/id/6632625",
+   "source": "鉅亨網",
+   "date": "2026/10/17",
+   "score": 9.75,
+   "short": "AI賣壓燒向債市！美債殖利率急跌"
+  },
+  {
+   "title": "美銀預測Fed 10月再升息！通膨升溫添變數",
+   "url": "https://news.cnyes.com/news/id/6631672",
+   "source": "鉅亨網",
+   "date": "2026/10/17",
+   "score": 8.95,
+   "short": "美銀預測Fed 10月再升息！通膨升溫添變數"
+  },
+  {
+   "title": "美銀：美股逢低買進仍太早 先等Fed與期中選舉落幕",
+   "url": "https://news.cnyes.com/news/id/6632537",
+   "source": "鉅亨網",
+   "date": "2026/10/17",
+   "score": 7.69,
+   "short": "美銀：美股逢低買進仍太早"
+  },
+  {
+   "title": "輝達、聯準會安撫投資者　歐股收紅",
+   "url": "https://www.cna.com.tw/news/afe/202610170002.aspx",
+   "source": "中央社",
+   "date": "2026/10/17",
+   "score": 7.68,
+   "short": "輝達、聯準會安撫投資者　歐股收紅"
+  }
+ ],
+ "news_sources": [
+  "中央社",
+  "鉅亨網"
+ ],
+ "missing": [],
+ "cards": {
+  "dark": "cards/2026-10-18-dark.png",
+  "green": "cards/2026-10-18-green.png"
+ },
+ "clips": [
+  {
+   "title": "美銀預測Fed 10月再升息！通膨升溫添變數",
+   "url": "https://news.cnyes.com/news/id/6631672",
+   "source": "鉅亨網",
+   "time": "2026/10/17 21:00",
+   "cat": "財經",
+   "png": "clips/2026-10-18/01.png"
+  },
+  {
+   "title": "通膨和債務夾擊 IMF：與AI紅利脫鉤低收入石油進口國最脆弱",
+   "url": "https://www.cna.com.tw/news/aopl/202610170137.aspx",
+   "source": "中央社",
+   "time": "2026/10/17 17:28",
+   "cat": "財經",
+   "png": "clips/2026-10-18/02.png"
+  },
+  {
+   "title": "AI陷入「疲勞交易」！投資人厭倦反覆爭論科技承諾 分析師：市場需要營收證明",
+   "url": "https://news.cnyes.com/news/id/6632553",
+   "source": "鉅亨網",
+   "time": "2026/10/17 19:00",
+   "cat": "財經",
+   "png": "clips/2026-10-18/03.png"
+  },
+  {
+   "title": "友達：聚焦先進封裝光通訊 2030年面板營收降至3成",
+   "url": "https://www.cna.com.tw/news/afe/202610170118.aspx",
+   "source": "中央社",
+   "time": "2026/10/17 16:48",
+   "cat": "財經",
+   "png": "clips/2026-10-18/04.png"
+  },
+  {
+   "title": "〈友達運動會〉彭双浪：集團朝「類控股」架構轉型 培養小老虎盼成大老虎",
+   "url": "https://news.cnyes.com/news/id/6632739",
+   "source": "鉅亨網",
+   "time": "2026/10/17 18:49",
+   "cat": "財經",
+   "png": "clips/2026-10-18/05.png"
+  },
+  {
+   "title": "穆迪調升埃及信評 維持正面展望",
+   "url": "https://www.cna.com.tw/news/aopl/202610170091.aspx",
+   "source": "中央社",
+   "time": "2026/10/17 15:02",
+   "cat": "財經",
+   "png": "clips/2026-10-18/06.png"
+  },
+  {
+   "title": "標普暗藏「怪獸級牛市」！避開AI燒錢股 避險基金經理看好這些產業",
+   "url": "https://news.cnyes.com/news/id/6631653",
+   "source": "鉅亨網",
+   "time": "2026/10/18 00:10",
+   "cat": "保險理財",
+   "png": "clips/2026-10-18/07.png"
+  },
+  {
+   "title": "美銀、花旗出手限制AI代理 銀行為何開始害怕「智慧理財」？",
+   "url": "https://news.cnyes.com/news/id/6632621",
+   "source": "鉅亨網",
+   "time": "2026/10/17 20:00",
+   "cat": "保險理財",
+   "png": "clips/2026-10-18/08.png"
+  },
+  {
+   "title": "AI交易平倉潮重創全球避險基金 亞洲基金首當其衝",
+   "url": "https://news.cnyes.com/news/id/6632554",
+   "source": "鉅亨網",
+   "time": "2026/10/17 18:00",
+   "cat": "保險理財",
+   "png": "clips/2026-10-18/09.png"
+  },
+  {
+   "title": "00984D規模爆衝7倍 單季吸金71億元 霸榜全台最大主動債ETF",
+   "url": "https://news.cnyes.com/news/id/6632627",
+   "source": "鉅亨網",
+   "time": "2026/10/17 12:47",
+   "cat": "保險理財",
+   "png": "clips/2026-10-18/10.png"
+  },
+  {
+   "title": "台灣人均退休缺口4400萬！富達調查：6成盼月花5萬 卻卡關「3大困境」",
+   "url": "https://news.cnyes.com/news/id/6629638",
+   "source": "鉅亨網",
+   "time": "2026/10/14 09:41",
+   "cat": "保險理財",
+   "png": "clips/2026-10-18/11.png"
+  },
+  {
+   "title": "就業金卡核發破1.8萬人次 數位、運動領域成長亮眼",
+   "url": "https://www.cna.com.tw/news/afe/202610170020.aspx",
+   "source": "中央社",
+   "time": "2026/10/17 09:12",
+   "cat": "健康醫療",
+   "png": "clips/2026-10-18/12.png"
+  },
+  {
+   "title": "健康日曆｜優雅地變老，是一門與自己和解的藝術",
+   "url": "https://heho.com.tw/archives/388066",
+   "source": "Heho健康",
+   "time": "2026/10/18 00:18",
+   "cat": "健康醫療",
+   "png": "clips/2026-10-18/13.png"
+  },
+  {
+   "title": "藥華藥布局台美雙生產基地 波多黎各廠預計2027年營運",
+   "url": "https://www.cna.com.tw/news/afe/202610170014.aspx",
+   "source": "中央社",
+   "time": "2026/10/17 08:21",
+   "cat": "健康醫療",
+   "png": "clips/2026-10-18/14.png"
+  },
+  {
+   "title": "健康日曆｜活在當下，什麼都值得去探索",
+   "url": "https://heho.com.tw/archives/388068",
+   "source": "Heho健康",
+   "time": "2026/10/17 00:17",
+   "cat": "健康醫療",
+   "png": "clips/2026-10-18/15.png"
+  }
+ ]
+}
