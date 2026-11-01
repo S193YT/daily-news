@@ -6,8 +6,8 @@
   {
    "code": "USD",
    "name": "美元",
-   "rate": null,
-   "prev": null,
+   "rate": 32.555,
+   "prev": 32.53,
    "spark": {
     "pts": [
      32.566,
@@ -112,8 +112,8 @@
   {
    "code": "EUR",
    "name": "歐元",
-   "rate": null,
-   "prev": null,
+   "rate": 36.555,
+   "prev": 36.56,
    "spark": {
     "pts": [
      36.465,
@@ -218,8 +218,8 @@
   {
    "code": "AUD",
    "name": "澳幣",
-   "rate": null,
-   "prev": null,
+   "rate": 23.02,
+   "prev": 22.91,
    "spark": {
     "pts": [
      22.87,
@@ -324,8 +324,8 @@
   {
    "code": "JPY",
    "name": "日圓",
-   "rate": null,
-   "prev": null,
+   "rate": 0.2088,
+   "prev": 0.2082,
    "spark": {
     "pts": [
      0.2041,
@@ -430,8 +430,8 @@
   {
    "code": "CNY",
    "name": "人民幣",
-   "rate": null,
-   "prev": null,
+   "rate": 4.914,
+   "prev": 4.907,
    "spark": {
     "pts": [
      4.8929,
@@ -534,8 +534,8 @@
    }
   }
  ],
- "fx_time": null,
- "fx_prev_time": null,
+ "fx_time": "2026/11/01 05:31",
+ "fx_prev_time": "10/30 16:01",
  "indices": [
   {
    "symbol": "^DJI",
@@ -941,13 +941,7 @@
   "中央社",
   "鉅亨網"
  ],
- "missing": [
-  "USD 匯率",
-  "EUR 匯率",
-  "AUD 匯率",
-  "JPY 匯率",
-  "CNY 匯率"
- ],
+ "missing": [],
  "cards": {
   "dark": "cards/2026-11-01-dark.png",
   "green": "cards/2026-11-01-green.png"
